@@ -1,3 +1,6 @@
+# Credit
+This version of kerbrute was originally created by [TarlogicSecurity](https://github.com/TarlogicSecurity), but since that repo has not been updated in the last few years despite standing pull requests, I am forking the repo to keep it alive.
+
 # kerbrute
 An script to perform kerberos bruteforcing by using the Impacket library.
 
