@@ -123,6 +123,7 @@ def main():
 
     if not kerberos_bruter.some_password_was_discovered():
         logging.info("No passwords were discovered :'(")
+        sys.exit(1)
 
 
 class KerberosBruter:
